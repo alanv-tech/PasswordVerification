@@ -1,5 +1,5 @@
 # 🔐 PasswordVerification
-This is a simle JS project about making password verifiers for web apps.
+This is a simple JS project about making password verifiers for web apps.
 
 # 🔷 About PV
 I created this for fun as a small project. Then I got the idea to use this as an extension for my other repositories. The goal of PV is to make simple password veification methods for web applications.
