@@ -2,7 +2,10 @@ let cond = true
 let correctpwd = "blob";
 
 while (true) {
-  let inputpwd = confirm("Please enter the password\n", "");
+  let inputpwd = prompt("Please enter the password\n", "");
+  if (inputPWD == false) {
+    break;
+  }
   if (inputpwd == null || inputpwd == "") {
     alert("Please enter a valid password");
   } else if (inputpwd == correctpwd) {
