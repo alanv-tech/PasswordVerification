@@ -1,10 +1,7 @@
-while True:
-  pwd = "blob"
-  inp = input("Please enter the password\n")
+pwd = "blob"
+inp = input("Please enter the password\n")
 
-  if inp == pwd:
-    print("Hi")
-    break
-  else:
-    print("GET OUT")
-    continue
+if inp == pwd:
+  print("Hi") 
+else:
+  print("GET OUT")
