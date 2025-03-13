@@ -3,7 +3,7 @@ let correctpwd = "blob";
 
 while (true) {
   let inputpwd = prompt("Please enter the password\n", "");
-  if (inputPWD == false) {
+  if (inputpwd == false) {
     break;
   }
   if (inputpwd == null || inputpwd == "") {
