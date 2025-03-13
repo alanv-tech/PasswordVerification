@@ -5,7 +5,7 @@ public class Main {
     Scanner scanner = new Scanner(System.in);
     String inp = scanner.nextLine();
 
-    if (inp.equals("blob") {
+    if (inp.equals("blob")) {
       System.out.println("Hi");
     } else {
         System.out.println("Hi");
